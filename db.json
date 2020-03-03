@@ -1,32 +1,50 @@
-[
-  {
-    "name": "Android",
-    "short": "A",
-    "priority": 2,
-    "cards": 38
-  },
-  {
-    "name": "Kotlin",
-    "short": "K",
-    "priority": 3,
-    "cards": 30
-  },
-  {
-    "name": "Java",
-    "short": "J",
-    "priority": 4,
-    "cards": 30
-  },
-  {
-    "name": "Data Structures",
-    "short": "Ds",
-    "priority": 5,
-    "cards": 30
-  },
-  {
-    "name": "Algorithms",
-    "short": "Al",
-    "priority": 6,
-    "cards": 30
-  }
-]
+[{
+  "results": [
+    {
+      "index": 0,
+      "address": "Riviera San Nicol 11/a",
+      "categories": "Hotels",
+      "city": "Mableton",
+      "country": "US",
+      "latitude": 45.421611,
+      "longitude": 12.376187,
+      "name": "Hotel Russo Palace",
+      "postalCode": 30126,
+      "province": "GA",
+      "reviews.rating": 4,
+      "reviews.text": "Pleasant 10 min walk along the sea front to the Water Bus. restaurants etc. Hotel was comfortable breakfast was good - quite a variety. Room aircon didn't work very well. Take mosquito repelant!",
+      "reviews.title": "Good location away from the crouds",
+      "reviews.username": "Russ (kent)"
+    },
+    {
+      "index": 57,
+      "address": "2113 Sapp Brothers Dr",
+      "categories": "Lodging,Hotels,Motels",
+      "city": "Percival",
+      "country": "US",
+      "latitude": 40.68973,
+      "longitude": -95.788826,
+      "name": "Americas Best Value Inn",
+      "postalCode": 51648,
+      "province": "IA",
+      "reviews.rating": 0,
+      "reviews.text": "to share your opinion of this businesswith YP visitors across the United Statesand in your neighborhood",
+      "reviews.title": "",
+      "reviews.username": "write a review"
+    },
+    {
+      "index": 58,
+      "address": "2860 Grand Ave",
+      "categories": "Hotels,Restaurants",
+      "city": "Los Olivos",
+      "country": "US",
+      "latitude": 34.664684,
+      "longitude": -120.115036,
+      "name": "Intermezzo",
+      "postalCode": 93441,
+      "province": "CA",
+      "reviews.rating": 0,
+      "reviews.text": "to share your opinion of this businesswith YP visitors across the United Statesand in your neighborhood",
+      "reviews.title": "",
+      "reviews.username": "write a review"
+    },]}]
